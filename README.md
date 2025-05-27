@@ -21,7 +21,7 @@
 - 📧 Email: [balajipatil0517@gmail.com](mailto:balajipatil0517@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/balaji-patil17](https://www.linkedin.com/in/balaji-patil17/)
 - 🌐 Portfolio: [portfolio-react-three-neon.vercel.app](https://portfolio-react-three-neon.vercel.app/)
-- 📄 Resume: [View My Resume]([https://drive.google.com/file/d/1mxRMh-iOQZ4cduZEhJjYVfA_o6oOdbWz/view?usp=sharing](https://drive.google.com/file/d/1DicHRGDX_kBo6t7YoDUJXWWinDQvkBKe/view?usp=sharing))
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1mxRMh-iOQZ4cduZEhJjYVfA_o6oOdbWz/view?usp=sharing](https://drive.google.com/file/d/1DicHRGDX_kBo6t7YoDUJXWWinDQvkBKe/view?usp=sharing)
 - 🧠 LeetCode: [leetcode.com/u/balajipatil17](https://leetcode.com/u/balajipatil17/)
 
 ---
